@@ -26,7 +26,7 @@ You can use lustache to render mustache templates anywhere you can use Lua.
 
 Download FiveM Mustache place it in your server resource directory and rename it to `mustache`.
 
-Below is quick example how to use lustache:
+Below is quick example how to use mustache:
 **manifest.lua** or **__resource.lua**
 ```lua
 server_scripts {
