@@ -395,4 +395,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Disclamer
 ---
-I took over the repsitory of [Olivine Labs](https://github.com/Olivine-Labs) and modified it for use in FiveM. So it is a script which has been rewritten and/or modified to fit in FiveM structure and make it possible to run the library.
+I took the repsitory of [Olivine Labs](https://github.com/Olivine-Labs) and modified it for use in FiveM. So it is a script which has been rewritten and/or modified to fit in FiveM structure and make it possible to run the library.
