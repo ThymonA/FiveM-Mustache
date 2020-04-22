@@ -1,4 +1,6 @@
 # FiveM mustache - Logic-less {{mustache}} templates in FiveM with Lua
+![FiveM Mustache](https://i.imgur.com/8XETpBv.png)
+
 > What could be more logical awesome than no logic at all?
 
 [FiveM Mustache](https://github.com/TigoDevelopment/FiveM-Mustache) is an implementation of the [lustache](https://github.com/Olivine-Labs/lustache) implementation of the [mustache](http://mustache.github.com/) template system in Lua.
