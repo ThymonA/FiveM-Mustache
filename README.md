@@ -40,7 +40,10 @@ local template = 'Here\'s an {{example}} of what you can do'
 local renderedTemplate = Mustache.Render(template, {
     example = 'README.md'
 })
--- renderedTemplate will be: Here\'s an README.md of what you can do
+
+print(renderedTemplate)
+
+-- Console output is: Here's an README.md of what you can do
 ```
 In this example, the `Mustache.Render` function takes two parameters: 1) the
 [mustache](http://mustache.github.com/) template and 2) a `view_model` object
