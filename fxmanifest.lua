@@ -1,6 +1,6 @@
 fx_version 'adamant'
 
-game 'gta5'
+games { 'rdr3', 'gta5' }
 
 description 'Logic-less {{mustache}} templates in FiveM with Lua'
 name 'Mustache for FiveM'
